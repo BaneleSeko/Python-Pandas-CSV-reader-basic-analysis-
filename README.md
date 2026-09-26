@@ -1,4 +1,4 @@
-# Python-Pandas-CSV-reader-basic-analysis-
+# Pandas CSV Reader & Basic Data Analysis
 
 ## Overview
 
